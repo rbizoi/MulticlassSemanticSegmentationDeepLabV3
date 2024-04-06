@@ -4,14 +4,12 @@ Automatiser le comptage des Glucides grâce à une application smartphone intég
 <table>
   <thead>
     <tr>
-      <th scope="col">Person</th>
-      <th scope="col">Most interest in</th>
+      <th scope="col"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/ea579aa18bc6ce54a81c3d48e0cb3dde681560eb/images/logoHHC-carre.png" width="256"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/ea579aa18bc6ce54a81c3d48e0cb3dde681560eb/images/strasbourg.png" width="1024"></th>
-      <td><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/ea579aa18bc6ce54a81c3d48e0cb3dde681560eb/images/logoHHC-carre.png" width="256"></td>
     </tr>
   </tbody>
 </table>
