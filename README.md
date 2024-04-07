@@ -1,4 +1,6 @@
 # GlucIA 
+<img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/5668f75b44329ee40ceeb02ca189d419aa3b0e1a/images/La_creation_de_GlucIA.jpg" width="1024">
+
 Automatiser le comptage des Glucides grâce à une application smartphone intégrant des algorithmes d’intelligence artificielle (IA) - améliorer la charge mentale dans le diabète
 
 <table>
