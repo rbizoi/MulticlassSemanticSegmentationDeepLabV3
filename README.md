@@ -21,3 +21,18 @@ Automatiser le comptage des Glucides grâce à une application smartphone intég
 Apprentissage à partir du jeu de données : <br> 
 >> https://xiongweiwu.github.io/foodseg103.html<br>
 >> https://arxiv.org/abs/2105.05409<br>
+<br>
+Résultats :<br>
+<table>
+  <tbody>
+    <tr>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026900.png" width="256"></th>
+    </tr>
+    <tr>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026901.png" width="256"></th>
+    </tr>
+    <tr>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026902.png" width="256"></th>
+    </tr>
+  </tbody>
+</table>
