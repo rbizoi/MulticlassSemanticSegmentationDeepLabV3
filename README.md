@@ -28,9 +28,13 @@ Résultats :<br>
     <tr>
       <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026900.png" width="256"></th>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026901.png" width="256"></th>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026902.png" width="256"></th>
     </tr>
