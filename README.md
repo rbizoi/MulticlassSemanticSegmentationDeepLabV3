@@ -31,10 +31,17 @@ Résultats :<br>
       <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0964cd9b0d23bba7f8fe96da5ba23096e8f0fed7/images/0000026902.png" width="256"></th>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <th scope="row"></th>
-    </tr>
   </tbody>
 </table>
 <img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/654d9f6dadf2e0ac84215005ef55971625838590/images/plot00000269.png" width="768">
+<table>
+  <tbody>
+    <tr>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0bf469aeba3f4ddb9ceb5a86d41c7d5b6623605b/images/0000022200.png" width="256"></th>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0bf469aeba3f4ddb9ceb5a86d41c7d5b6623605b/images/0000022201.png" width="256"></th>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0bf469aeba3f4ddb9ceb5a86d41c7d5b6623605b/images/0000022202.png" width="256"></th>
+    </tr>
+  </tbody>
+  </tbody>
+</table>
+<img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/0bf469aeba3f4ddb9ceb5a86d41c7d5b6623605b/images/plot00000222.png" width="768">
