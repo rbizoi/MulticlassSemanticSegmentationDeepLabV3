@@ -33,7 +33,7 @@ Résultats :<br>
   </tbody>
   <tbody>
     <tr>
-      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/654d9f6dadf2e0ac84215005ef55971625838590/images/plot00000269.png" width="256"></th>
+      <th scope="row"><img src="https://github.com/rbizoi/MulticlassSemanticSegmentationDeepLabV3/blob/654d9f6dadf2e0ac84215005ef55971625838590/images/plot00000269.png" width="768"></th>
     </tr>
   </tbody>
 </table>
